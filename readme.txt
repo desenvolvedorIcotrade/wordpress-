@@ -1,4 +1,4 @@
-=== Facebook ===
+=== *Facebook ===
 Contributors: Facebook, automattic, niallkennedy, mattwkelly, rgharpuray, ngfeldman, jamesgpearce, ravi.grover, danielbachhuber, gigawats, eosgood, Otto42, colmdoyle, zazinteractive
 Tags: Facebook, comments, social, friends, like, like button, social plugins, facebook platform, page, posts, sidebar, plugin, open graph, publish Facebook
 Requires at least: 3.3
